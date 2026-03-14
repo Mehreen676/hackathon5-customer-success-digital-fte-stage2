@@ -22,9 +22,10 @@
 
 This demo shows the Stage 2 backend system running end-to-end — FastAPI receiving multi-channel messages, the agent workflow processing them, MCP tools executing, tickets being created in the database, and channel-specific responses being returned.
 
-[![Watch the Stage 2 Demo](assets/stage2-thumbnail.png)](PASTE_STAGE2_VIDEO_LINK_HERE)
+[![Watch the Stage 2 Demo](https://img.youtube.com/vi/H3uD7-XUJrY/maxresdefault.jpg)](https://www.youtube.com/watch?v=H3uD7-XUJrY)
 
 This demo shows:
+
 - FastAPI backend running
 - Multi-channel handling (Gmail, WhatsApp, Web Form)
 - MCP tool execution
